@@ -31,6 +31,3 @@ def randomize(text):
     return "".join(chars)
 
 #################################
-
-
-changes changes
